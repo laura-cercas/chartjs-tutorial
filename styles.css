@@ -32,3 +32,12 @@ code {
     border-color: rgba(127,207,253,0.44);
 }
 
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {;
+    padding-bottom: 5%;
+
+}
